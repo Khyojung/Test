@@ -1,4 +1,4 @@
-@echo on
+@echo off
 cd C:\Users\hyojung\Desktop\»õ Æú´õ
 git status
 git add --all
